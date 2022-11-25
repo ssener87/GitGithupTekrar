@@ -2,3 +2,4 @@ Git GitHup ikinci gun ilk deneme
 Git GitHup ikinci gun ikinci deneme
 Git GitHup ikinci gun seyma branch deneme
 Git GitHup ikinci gun master branch deneme
+Seyma Branchi yeni ekleme
